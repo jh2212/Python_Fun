@@ -8,7 +8,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-API_KEY = 'X3LLF32S7AE1KI1L'
+API_KEY = 'kjalskdjfl;akjsdflj'
 BASE_URL = 'https://www.alphavantage.co/query'
 
 def get_stock_data(symbol):
